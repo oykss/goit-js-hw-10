@@ -33,7 +33,7 @@ flatpickr(inputDate, {
         backgroundColor: '#ef4040',
         position: 'topRight',
         closeOnEscape: true,
-        iconUrl: '/public/bi_x-octagon.svg',
+        iconUrl: 'bi_x-octagon.svg',
         timeout: 3000,
         theme: 'dark',
       });
